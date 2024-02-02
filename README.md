@@ -1,5 +1,5 @@
 # SystemProgrammingPB2-1
-Sure, I'll provide a comprehensive list of coding assignments for each module of your C programming course, covering the period from January 24, 2024, to the end of May 2024.
+list of coding assignments for each module of your C programming course, covering the period from January 24, 2024, to the end of May 2024.
 
 ### Getting Started (24.01.2024 - 20.02.2024)<br />
 **Week 1 (24.01 - 26.01)**<br />
