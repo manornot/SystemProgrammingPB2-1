@@ -4,10 +4,10 @@ Sure, I'll provide a comprehensive list of coding assignments for each module of
 ### Getting Started (24.01.2024 - 20.02.2024)<br />
 **Week 1 (24.01 - 26.01)**<br />
 
-1. Code a program to print "Hello, World!". <br />
-2. Write a program that prints a triangle pattern using asterisks. <br />
+1.Code a program to print "Hello, World!". <br />
+2.Write a program that prints a triangle pattern using asterisks. <br />
 https://github.com/manornot/PrintTriangle <br />
-3. Develop a program that calculates the sum of numbers from n to m.<br />
+3.Develop a program that calculates the sum of numbers from n to m.<br />
 https://github.com/manornot/SumOrNumbersBetweenIntegers <br />
 
 **Week 2 (29.01 - 31.01)** <br />
