@@ -36,11 +36,11 @@ https://github.com/manornot/SimpleInterestCalculator <br />
 
 ### Language Foundations (21.02.2024 - 13.03.2024) <br />
 **Week 5 (21.02 - 23.02)** <br />
-1. Code a program using if-else to categorize ages into different life stages.<br />
+1.Code a program using if-else to categorize ages into different life stages.<br />
 https://github.com/manornot/AgeCategoryClasifier <br />
-2. Write a program that uses logical operators to check if a number is divisible by both 2 and 3. <br />
+2.Write a program that uses logical operators to check if a number is divisible by both 2 and 3. <br />
 https://github.com/manornot/DivisabilityCheck <br />
-3. Develop a program to find the largest of three numbers. <br />
+3.Develop a program to find the largest of three numbers. <br />
 https://github.com/manornot/largestOfThree <br />
 
 **Week 6 (28.02 - 02.03)** <br />
@@ -61,11 +61,11 @@ https://github.com/manornot/VowelCounter <br />
 
 ### Modular Programming & Memory (14.03.2024 - 16.04.2024) <br />
 **Week 8 (14.03 - 16.03)** <br />
-1. Write a function to calculate the area of a circle and call it in your main program. <br />
+1.Write a function to calculate the area of a circle and call it in your main program. <br />
 https://github.com/manornot/circle_area <br />
-2. Develop a recursive function to find the nth term of the Fibonacci series. <br />
+2.Develop a recursive function to find the nth term of the Fibonacci series. <br />
 https://github.com/manornot/recursive_fibonacci <br />
-3. Code a program that uses a function to reverse a string. <br />
+3.Code a program that uses a function to reverse a string. <br />
 https://github.com/manornot/reverse_string <br />
 
 **Week 9 (21.03 - 23.03)** <br />
@@ -86,11 +86,11 @@ https://github.com/manornot/staticVariables <br />
 
 ### Pointers & Memory Management (17.04.2024 - End of May) <br />
 **Week 11 (17.04 - 19.04)**<br />
-1. Write a program to pass an array to a function and modify it. <br />
+1.Write a program to pass an array to a function and modify it. <br />
 <br />
-2. Develop a program to find the length of a string using pointers. <br />
+2.Develop a program to find the length of a string using pointers. <br />
 <br />
-3. Create a program to add two matrices using multidimensional arrays. <br />
+3.Create a program to add two matrices using multidimensional arrays. <br />
 
 **Week 12 (24.04 - 26.04)** <br />
 4. Code a program to demonstrate string manipulation using an array of pointers. <br />
