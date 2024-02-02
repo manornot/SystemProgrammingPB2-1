@@ -6,7 +6,9 @@ list of coding assignments for each module of your C programming course, coverin
 
 1.Code a program to print "Hello, World!". <br />
 2.Write a program that prints a triangle pattern using asterisks. <br />
-https://github.com/manornot/PrintTriangle <br />
+git: https://github.com/manornot/PrintTriangle <br />
+Assignment: https://classroom.github.com/a/YcjegW-Z <br />
+
 3.Develop a program that calculates the sum of numbers from n to m.<br />
 https://github.com/manornot/SumOrNumbersBetweenIntegers <br />
 
