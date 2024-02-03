@@ -14,56 +14,47 @@ Assignment: https://classroom.github.com/a/jUPedAkU <br />
 
 
 **Week 2 (29.01 - 31.01)** <br />
-4. Code a program that reads an integer and prints if it is odd or even. <br />
+4.Code a program that reads an integer and prints if it is odd or even. <br />
 git: https://github.com/manornot/OddOrEven <br />
 Assignment: https://classroom.github.com/a/Ehb5ddyQ <br />
-5. Create a program that prints each character of a string on a new line. <br />
+5.Create a program that prints each character of a string on a new line. <br />
 git: https://github.com/manornot/PrintingChracters <br />
 Assignment: https://classroom.github.com/a/TaCnlhs8 <br />
-
-6. Write a calculator for addition and subtraction of two numbers. <br />
-git: <br />
+6.Write a calculator for addition and subtraction of two numbers. <br />
+git: https://github.com/manornot/SimpleCalculator <br />
 Assignment: <br />
-https://github.com/manornot/SimpleCalculator <br />
 
 **Week 3 (05.02 - 07.02)** <br />
 7. Develop a program to calculate the factorial of a number using loops. <br />
-git: <br />
+git: https://github.com/manornot/FactorialCalculator <br />
 Assignment: <br />
-https://github.com/manornot/FactorialCalculator <br />
 8. Write a program that takes two integers as input and prints their average. <br />
-git: <br />
+git: https://github.com/manornot/averageOfTwo <br />
 Assignment: <br />
-https://github.com/manornot/averageOfTwo <br />
 9. Code a program to check if a number is a prime number. <br />
-git: <br />
+git: https://github.com/manornot/primeNumber <br />
 Assignment: <br />
-https://github.com/manornot/primeNumber <br />
 
 **Week 4 (12.02 - 14.02)** <br />
 10. Create a program that converts Fahrenheit to Celsius. <br />
-git: <br />
+git: https://github.com/manornot/FarenheitToCelsius <br />
 Assignment: <br />
-https://github.com/manornot/FarenheitToCelsius <br />
 11. Write a program to display the size of different data types in C. <br />
-git: <br />
+git: https://github.com/manornot/DataTypeSizes <br />
 Assignment: <br />
-https://github.com/manornot/DataTypeSizes <br />
 12. Develop a simple interest calculator. <br />
-git: <br />
+git: https://github.com/manornot/SimpleInterestCalculator <br />
 Assignment: <br />
-https://github.com/manornot/SimpleInterestCalculator <br />
+
 
 ### Language Foundations (21.02.2024 - 13.03.2024) <br />
 **Week 5 (21.02 - 23.02)** <br />
 1.Code a program using if-else to categorize ages into different life stages.<br />
-git: <br />
+git: https://github.com/manornot/AgeCategoryClasifier <br />
 Assignment: <br />
-https://github.com/manornot/AgeCategoryClasifier <br />
 2.Write a program that uses logical operators to check if a number is divisible by both 2 and 3. <br />
-git: <br />
+git: https://github.com/manornot/DivisabilityCheck <br />
 Assignment: <br />
-https://github.com/manornot/DivisabilityCheck <br />
 3.Develop a program to find the largest of three numbers. <br />
 git: <br />
 Assignment: <br />
