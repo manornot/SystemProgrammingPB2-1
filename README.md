@@ -13,7 +13,7 @@ git: https://github.com/manornot/SumOrNumbersBetweenIntegers <br />
 Assignment: https://classroom.github.com/a/jUPedAkU <br />
 
 
-**Week 2 (29.01 - 31.01)** <br />
+**Week 2 (31.01 - 02.02)** <br />
 4.Code a program that reads an integer and prints if it is odd or even. <br />
 git: https://github.com/manornot/OddOrEven <br />
 Assignment: https://classroom.github.com/a/Ehb5ddyQ <br />
@@ -24,21 +24,21 @@ Assignment: https://classroom.github.com/a/TaCnlhs8 <br />
 git: https://github.com/manornot/SimpleCalculator <br />
 Assignment: https://classroom.github.com/a/QjaY2nLK <br />
 
-**Week 3 (05.02 - 07.02)** <br />
+**Week 3 (07.02 - 09.02)** <br />
 7. Develop a program to calculate the factorial of a number using loops. <br />
 git: https://github.com/manornot/FactorialCalculator <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/dmTLnLDY <br />
 8. Write a program that takes two integers as input and prints their average. <br />
 git: https://github.com/manornot/averageOfTwo <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/5MyrD4Ks <br />
 9. Code a program to check if a number is a prime number. <br />
 git: https://github.com/manornot/primeNumber <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/WBq81Fzr <br />
 
-**Week 4 (12.02 - 14.02)** <br />
+**Week 4 (14.02 - 16.02)** <br />
 10. Create a program that converts Fahrenheit to Celsius. <br />
 git: https://github.com/manornot/FarenheitToCelsius <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/k7hijCmG <br />
 11. Write a program to display the size of different data types in C. <br />
 git: https://github.com/manornot/DataTypeSizes <br />
 Assignment: <br />
