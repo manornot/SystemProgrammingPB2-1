@@ -22,7 +22,7 @@ git: https://github.com/manornot/PrintingChracters <br />
 Assignment: https://classroom.github.com/a/TaCnlhs8 <br />
 6.Write a calculator for addition and subtraction of two numbers. <br />
 git: https://github.com/manornot/SimpleCalculator <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/QjaY2nLK <br />
 
 **Week 3 (05.02 - 07.02)** <br />
 7. Develop a program to calculate the factorial of a number using loops. <br />
