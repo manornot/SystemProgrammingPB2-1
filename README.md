@@ -41,10 +41,10 @@ git: https://github.com/manornot/FarenheitToCelsius <br />
 Assignment: https://classroom.github.com/a/k7hijCmG <br />
 11. Write a program to display the size of different data types in C. <br />
 git: https://github.com/manornot/DataTypeSizes <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/09J5HZto <br />
 12. Develop a simple interest calculator. <br />
 git: https://github.com/manornot/SimpleInterestCalculator <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/oBQ81pju <br />
 
 
 ### Language Foundations (21.02.2024 - 13.03.2024) <br />
