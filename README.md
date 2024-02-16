@@ -64,44 +64,41 @@ Assignment: https://classroom.github.com/a/uK7F6asA <br />
 16. Create an array of 10 integers and print them in reverse order. <br />
 git: https://github.com/manornot/reverseArray <br />
 Assignment: https://classroom.github.com/a/Fqw3g9EQ <br />
-
 17. Write a program that searches for a number in an array using linear search. <br />
 git: https://github.com/manornot/linearSearch <br />
-Assignment: <br />
-
+Assignment: https://classroom.github.com/a/ZdcvWjtY <br />
 18. Code a program using a for loop to print the Fibonacci series up to the n-th term.<br />
 git: https://github.com/manornot/FibonachiUpToN <br />
-Assignment: <br />
-
+Assignment: https://classroom.github.com/a/B-idZAoz <br />
 
 **Week 7 (07.03 - 09.03)** <br />
 19. Develop a program to concatenate two strings manually. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/concatinate <br />
+git: https://github.com/manornot/concatinate <br />
+Assignment: https://classroom.github.com/a/T2PQTN2t <br />
+
 20. Write a program that sorts an array using the bubble sort algorithm. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/BubbleSort <br />
+git: https://github.com/manornot/BubbleSort <br />
+Assignment: https://classroom.github.com/a/W8dG6z6r <br />
+
 21. Create a program to count the number of vowels and consonants in a string. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/VowelCounter <br />
+git: https://github.com/manornot/VowelCounter <br />
+Assignment: https://classroom.github.com/a/LUe6MaO3 <br />
+
 
 ### Modular Programming & Memory (14.03.2024 - 16.04.2024) <br />
 **Week 8 (14.03 - 16.03)** <br />
 22.Write a function to calculate the area of a circle and call it in your main program. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/circle_area <br />
+git: https://github.com/manornot/circle_area <br />
+Assignment: https://classroom.github.com/a/xX8IzrZl <br />
+
 23.Develop a recursive function to find the nth term of the Fibonacci series. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/recursive_fibonacci <br />
+git: https://github.com/manornot/recursive_fibonacci <br />
+Assignment: https://classroom.github.com/a/4WfivxTw <br />
+
 24.Code a program that uses a function to reverse a string. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/reverse_string <br />
+git: https://github.com/manornot/reverse_string <br />
+Assignment: https://classroom.github.com/a/qXvXS2Fu <br />
+
 
 **Week 9 (21.03 - 23.03)** <br />
 25. Create a program to understand global and local variable scopes. <br />
