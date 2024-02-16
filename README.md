@@ -51,28 +51,28 @@ Assignment: https://classroom.github.com/a/oBQ81pju <br />
 **Week 5 (21.02 - 23.02)** <br />
 13.Code a program using if-else to categorize ages into different life stages.<br />
 git: https://github.com/manornot/AgeCategoryClasifier <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/GgfetkQd <br />
 14.Write a program that uses logical operators to check if a number is divisible by both 2 and 3. <br />
 git: https://github.com/manornot/DivisabilityCheck <br />
-Assignment: <br />
+Assignment: https://classroom.github.com/a/A3XDKfnN <br />
 15.Develop a program to find the largest of three numbers. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/largestOfThree <br />
+git: https://github.com/manornot/largestOfThree <br />
+Assignment: https://classroom.github.com/a/uK7F6asA <br />
+ 
 
 **Week 6 (28.02 - 02.03)** <br />
 16. Create an array of 10 integers and print them in reverse order. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/reverseArray <br />
+git: https://github.com/manornot/reverseArray <br />
+Assignment: https://classroom.github.com/a/Fqw3g9EQ <br />
+
 17. Write a program that searches for a number in an array using linear search. <br />
-git: <br />
+git: https://github.com/manornot/linearSearch <br />
 Assignment: <br />
-https://github.com/manornot/linearSearch <br />
+
 18. Code a program using a for loop to print the Fibonacci series up to the n-th term.<br />
-git: <br />
+git: https://github.com/manornot/FibonachiUpToN <br />
 Assignment: <br />
-https://github.com/manornot/FibonachiUpToN <br />
+
 
 **Week 7 (07.03 - 09.03)** <br />
 19. Develop a program to concatenate two strings manually. <br />
