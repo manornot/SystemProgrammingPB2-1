@@ -102,23 +102,29 @@ Assignment: https://classroom.github.com/a/qXvXS2Fu <br />
 
 **Week 9 (21.03 - 23.03)** <br />
 25. Create a program to understand global and local variable scopes. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/variableScope <br />
+git: https://github.com/manornot/variableScope <br />
+Assignment: https://classroom.github.com/a/DJnPGXoH <br />
+
 26. Write a function to check if a number is a palindrome. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/palindromeChecker <br />
+git: https://github.com/manornot/palindromeChecker <br />
+Assignment: https://classroom.github.com/a/siHJVd20 <br />
+
 27. Develop a program that uses function pointers. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/function_pointers <br />
+git: https://github.com/manornot/function_pointers <br />
+Assignment: https://classroom.github.com/a/meD3s3B7 <br />
+
 
 **Week 10 (28.03 - 30.03)** <br />
 28. Write a program to understand the use of static variables in functions. <br />
-git: <br />
-Assignment: <br />
-https://github.com/manornot/staticVariables <br />
+git: https://github.com/manornot/staticVariables <br />
+Assignment: https://classroom.github.com/a/Bid2Fmrf <br />
+
+
+
+
+
+
+
 29. Create a simple calculator using functions for each operation. <br />
 git: <br />
 Assignment: <br />
