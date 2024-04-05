@@ -111,13 +111,6 @@ Assignment: https://classroom.github.com/a/meD3s3B7 <br />
 28. Write a program to understand the use of static variables in functions. <br />
 git: https://github.com/manornot/staticVariables <br />
 Assignment: https://classroom.github.com/a/Bid2Fmrf <br />
-
-
-
-
-
-
-
 29. Create a simple calculator using functions for each operation. <br />
 git: https://github.com/skolavictoria/Calculator <br />
 Assignment: https://classroom.github.com/a/2ss-rzIx <br />
@@ -129,8 +122,8 @@ Assignment: https://classroom.github.com/a/jRdJcIvw <br />
 ### Pointers & Memory Management (17.04.2024 - End of May) <br />
 **Week 11 (17.04 - 19.04)**<br />
 31.Write a program to pass an array to a function and modify it. <br />
-git: <br />
-Assignment: <br />
+git: https://github.com/skolavictoria/PassArrayToFunction <br />
+Assignment: https://classroom.github.com/a/SvP7JAHS <br />
 32.Develop a program to find the length of a string using pointers. <br />
 git: <br />
 Assignment: <br />
