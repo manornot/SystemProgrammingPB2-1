@@ -119,11 +119,11 @@ Assignment: https://classroom.github.com/a/Bid2Fmrf <br />
 
 
 29. Create a simple calculator using functions for each operation. <br />
-git: <br />
-Assignment: <br />
+git: https://github.com/skolavictoria/Calculator <br />
+Assignment: https://classroom.github.com/a/2ss-rzIx <br />
 30. Code a program to swap two numbers using pointers. <br />
-git: <br />
-Assignment: <br />
+git: https://github.com/skolavictoria/Swap <br />
+Assignment: https://classroom.github.com/a/jRdJcIvw <br />
 
 
 ### Pointers & Memory Management (17.04.2024 - End of May) <br />
