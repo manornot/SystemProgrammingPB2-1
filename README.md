@@ -125,8 +125,8 @@ Assignment: https://classroom.github.com/a/jRdJcIvw <br />
 git: https://github.com/skolavictoria/PassArrayToFunction <br />
 Assignment: https://classroom.github.com/a/SvP7JAHS <br />
 32.Develop a program to find the length of a string using pointers. <br />
-git: <br />
-Assignment: <br />
+git: https://github.com/skolavictoria/StrLen <br />
+Assignment: https://classroom.github.com/a/S7Jnby8z <br />
 33.Create a program to add two matrices using multidimensional arrays. <br />
 git: <br />
 Assignment: <br />
